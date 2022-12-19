@@ -1,0 +1,6 @@
+Data/**
+.VSCodeCounter/**
+model.pt
+.vscode
+*.pt
+__pycache__/**
